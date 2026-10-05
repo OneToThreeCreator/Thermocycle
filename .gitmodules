@@ -1,0 +1,3 @@
+[submodule "master/Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS"]
+	path = MCU/Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS
+	url = https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS

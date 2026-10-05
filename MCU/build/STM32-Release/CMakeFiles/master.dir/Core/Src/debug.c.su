@@ -1,0 +1,6 @@
+D:/Documents/STM32/Thermocycle/master/Core/Src/debug.c:9:6:SWO_Init	0	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/debug.c:26:5:_write	12	static,ignoring_inline_asm
+D:/Documents/STM32/Thermocycle/master/Core/Src/debug.c:36:6:debug	0	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/debug.c:45:8:uint64_to_string	0	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/debug.c:69:8:int64_to_string	0	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/debug.c:108:6:StartDebugTask	8	static

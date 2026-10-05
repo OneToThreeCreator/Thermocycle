@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeviceTemplate>
+  <Options>
+    <ZeroAddr>false</ZeroAddr>
+    <DecAddr>true</DecAddr>
+    <DefByteOrder2 />
+    <DefByteOrder4 />
+    <DefByteOrder8 />
+  </Options>
+  <ElemGroups>
+    <ElemGroup active="true" dataBlock="Coils" address="0" name="Coils">
+      <Elem readOnly="false" tagCode="enable_cycling" name="Enable cycling" />
+      <Elem readOnly="false" tagCode="second_cycle_halve" name="Second cycle halve" />
+    </ElemGroup>
+    <ElemGroup active="true" dataBlock="HoldingRegisters" address="0" name="Hregs">
+      <Elem type="uint" readOnly="false" isBitMask="false" tagCode="position1" name="First position" />
+      <Elem type="uint" readOnly="false" isBitMask="false" tagCode="position2" name="Second position" />
+      <Elem type="ushort" readOnly="false" isBitMask="false" tagCode="cycles_count" name="Cycles count" />
+      <Elem type="ushort" readOnly="false" isBitMask="false" tagCode="cycle_time" name="Cycle time" />
+      <Elem type="short" readOnly="false" isBitMask="false" tagCode="speed_manual" name="Manual speed control" />
+    </ElemGroup>
+    <ElemGroup active="true" dataBlock="InputRegisters" address="0" name="Iregs">
+      <Elem type="uint" isBitMask="false" tagCode="position_cur" name="Current position" />
+      <Elem type="ushort" isBitMask="false" tagCode="cycle" name="Current cycle" />
+    </ElemGroup>
+  </ElemGroups>
+  <Cmds>
+    <Cmd dataBlock="Coils" multiple="true" address="0" elemCnt="2" cmdNum="0" cmdCode="write_coils" name="Write coils" />
+    <Cmd dataBlock="HoldingRegisters" multiple="true" address="0" elemType="uint" elemCnt="2" cmdNum="0" cmdCode="Write positions" name="Write positions" />
+    <Cmd dataBlock="HoldingRegisters" multiple="true" address="0" elemType="ushort" elemCnt="1" cmdNum="0" cmdCode="Write cycle info" name="Write cycle info" />
+    <Cmd dataBlock="HoldingRegisters" multiple="false" address="6" cmdNum="0" cmdCode="Set speed" name="Set speed" />
+  </Cmds>
+</DeviceTemplate>

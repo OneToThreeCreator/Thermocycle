@@ -1,0 +1,190 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "cmake/modbus-stm32-hal-freertos/lib_Modbus_STM32_HAL_FreeRTOS_internal.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"cmake/modbus-stm32-hal-freertos/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "stm32cubemx::@768a070a0fe75716b479"
+		}
+	],
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -Os -g0 -std=gnu11 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "STM32F401xC"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "USE_HAL_DRIVER"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "D:/Documents/STM32/Thermocycle/master/Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS/MODBUS-LIB/Inc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Core/Inc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"id" : "_Modbus_STM32_HAL_FreeRTOS_internal::@c75fcf5d70e49f51c154",
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "stm32cubemx::@768a070a0fe75716b479"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "stm32cubemx::@768a070a0fe75716b479"
+		}
+	],
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "stm32cubemx::@768a070a0fe75716b479"
+		}
+	],
+	"name" : "_Modbus_STM32_HAL_FreeRTOS_internal",
+	"nameOnDisk" : "lib_Modbus_STM32_HAL_FreeRTOS_internal.a",
+	"paths" : 
+	{
+		"build" : "cmake/modbus-stm32-hal-freertos",
+		"source" : "cmake/modbus-stm32-hal-freertos"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS/MODBUS-LIB/Src/Modbus.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS/MODBUS-LIB/Src/UARTCallback.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

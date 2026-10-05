@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCnl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cnl>
+    <CnlNum>101</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Enable cycling</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>enable_cycling</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <InFormula />
+    <OutFormula />
+    <FormatID>21</FormatID>
+    <OutFormatID xsi:nil="true" />
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>69</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>102</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Second cycle halve</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>second_cycle_halve</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <InFormula />
+    <OutFormula />
+    <FormatID>21</FormatID>
+    <OutFormatID xsi:nil="true" />
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>69</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>103</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - First position</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>position1</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <InFormula />
+    <OutFormula />
+    <FormatID>2</FormatID>
+    <OutFormatID>2</OutFormatID>
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>81</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>104</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Second position</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>position2</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <InFormula />
+    <OutFormula />
+    <FormatID>2</FormatID>
+    <OutFormatID>2</OutFormatID>
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>81</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>105</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Cycles count</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>cycles_count</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <InFormula />
+    <OutFormula />
+    <FormatID>2</FormatID>
+    <OutFormatID>2</OutFormatID>
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>81</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>106</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Cycle time</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>cycle_time</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <InFormula />
+    <OutFormula />
+    <FormatID>2</FormatID>
+    <OutFormatID>2</OutFormatID>
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>81</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>107</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Manual speed control</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>2</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>speed_manual</TagCode>
+    <FormulaEnabled>true</FormulaEnabled>
+    <InFormula>CnlVal * 0.1</InFormula>
+    <OutFormula>CmdVal * 10</OutFormula>
+    <FormatID>3</FormatID>
+    <OutFormatID>3</OutFormatID>
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>81</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>108</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Current position</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>1</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>position_cur</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <InFormula />
+    <OutFormula />
+    <FormatID>2</FormatID>
+    <OutFormatID>2</OutFormatID>
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>17</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>109</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Current cycle</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>1</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>cycle</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <InFormula />
+    <OutFormula />
+    <FormatID>2</FormatID>
+    <OutFormatID>2</OutFormatID>
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>17</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>110</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Write coils</Name>
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>5</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>write_coils</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <FormatID xsi:nil="true" />
+    <OutFormatID xsi:nil="true" />
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>65</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>111</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Write positions</Name>
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>5</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>Write positions</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <FormatID xsi:nil="true" />
+    <OutFormatID xsi:nil="true" />
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>65</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>112</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Write cycle info</Name>
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>5</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>Write cycle info</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <FormatID xsi:nil="true" />
+    <OutFormatID xsi:nil="true" />
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>65</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>113</CnlNum>
+    <Active>true</Active>
+    <Name>Thermocycle stand - Set speed</Name>
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>5</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum>1</DeviceNum>
+    <TagNum xsi:nil="true" />
+    <TagCode>Set speed</TagCode>
+    <FormulaEnabled>false</FormulaEnabled>
+    <FormatID xsi:nil="true" />
+    <OutFormatID xsi:nil="true" />
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask>65</EventMask>
+  </Cnl>
+  <Cnl>
+    <CnlNum>200</CnlNum>
+    <Active>true</Active>
+    <Name>Half Cycle control enabled</Name>
+    <Code />
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>3</CnlTypeID>
+    <ObjNum>1</ObjNum>
+    <DeviceNum xsi:nil="true" />
+    <TagNum xsi:nil="true" />
+    <TagCode />
+    <FormulaEnabled>true</FormulaEnabled>
+    <InFormula>Val(101) + Val(107)</InFormula>
+    <OutFormula />
+    <FormatID xsi:nil="true" />
+    <OutFormatID xsi:nil="true" />
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask xsi:nil="true" />
+  </Cnl>
+</ArrayOfCnl>

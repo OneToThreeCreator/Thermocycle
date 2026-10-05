@@ -1,0 +1,27 @@
+#ifndef MODBUS_DEFS_H
+#define MODBUS_DEFS_H
+
+#define MODBUS_ADDRESS 0x1
+#define MODBUS_COILS 2
+#define MODBUS_DINS  0
+#define MODBUS_IREGS 3
+#define MODBUS_HREGS 7
+
+#define MODBUS_COIL_DOCYCLE 0
+#define MODBUS_COIL_POSITION2 1
+
+// Prefer to stay consistent (modbus is MSB)
+#define MODBUS_HREG_FIRSTPOS_MSW 0
+#define MODBUS_HREG_FIRSTPOS_LSW 1
+#define MODBUS_HREG_SECONDPOS_MSW 2
+#define MODBUS_HREG_SECONDPOS_LSW 3
+#define MODBUS_HREG_CYCLESCOUNT 4
+#define MODBUS_HREG_CYCLETIME 5
+// Signed short int!
+#define MODBUS_HREG_MANUAL_SPEED 6
+
+#define MODBUS_IREG_POS_MSW 0
+#define MODBUS_IREG_POS_LSW 1
+#define MODBUS_IREG_CYCLE 2
+
+#endif // MODBUS_DEFS_H

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Documents/STM32/Thermocycle/master/build/STM32-Debug/cmake_install.cmake",
+		"D:/Documents/STM32/Thermocycle/master/build/STM32-Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

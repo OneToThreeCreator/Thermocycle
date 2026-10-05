@@ -1,0 +1,10 @@
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/CMakeFiles/master.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/CMakeFiles/edit_cache.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/CMakeFiles/rebuild_cache.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/modbus-stm32-hal-freertos/CMakeFiles/_Modbus_STM32_HAL_FreeRTOS_internal.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/modbus-stm32-hal-freertos/CMakeFiles/edit_cache.dir
+D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/modbus-stm32-hal-freertos/CMakeFiles/rebuild_cache.dir

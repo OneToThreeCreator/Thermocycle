@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake_install.cmake",
+		"D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/stm32cubemx/cmake_install.cmake",
+		"D:/Documents/STM32/Thermocycle/master/build/STM32-Release/cmake/modbus-stm32-hal-freertos/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

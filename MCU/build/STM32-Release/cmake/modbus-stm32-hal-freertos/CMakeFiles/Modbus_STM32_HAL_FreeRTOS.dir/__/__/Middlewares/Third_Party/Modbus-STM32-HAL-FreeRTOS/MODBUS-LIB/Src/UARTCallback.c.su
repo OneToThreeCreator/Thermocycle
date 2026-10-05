@@ -1,0 +1,4 @@
+D:/Documents/STM32/Thermocycle/master/Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS/MODBUS-LIB/Src/UARTCallback.c:24:6:HAL_UART_TxCpltCallback	32	static,ignoring_inline_asm
+D:/Documents/STM32/Thermocycle/master/Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS/MODBUS-LIB/Src/UARTCallback.c:60:6:HAL_UART_RxCpltCallback	32	static,ignoring_inline_asm
+D:/Documents/STM32/Thermocycle/master/Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS/MODBUS-LIB/Src/UARTCallback.c:102:6:HAL_UART_ErrorCallback	16	static
+D:/Documents/STM32/Thermocycle/master/Middlewares/Third_Party/Modbus-STM32-HAL-FreeRTOS/MODBUS-LIB/Src/UARTCallback.c:128:6:HAL_UARTEx_RxEventCallback	40	static,ignoring_inline_asm

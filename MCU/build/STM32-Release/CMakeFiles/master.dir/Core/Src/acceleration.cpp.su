@@ -1,0 +1,16 @@
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:24:17:void resetPos(int64_t)	0	static,ignoring_inline_asm
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:28:17:void setSpeedManual(int32_t)	12	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:37:17:void initPositioning()	16	static,ignoring_inline_asm
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:55:20:int32_t getSpeed()	0	static
+D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Core/Inc/StepperMotor.hpp:266:11:int64_t PositioningStepperMotor<countertimer_type, startstop_pin_inverted>::get_current_pos() const [with countertimer_type = short unsigned int; bool startstop_pin_inverted = false]	8	static,ignoring_inline_asm
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:51:20:int64_t getPos()	8	static
+D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Core/Inc/StepperMotor.hpp:135:15:void PositioningStepperMotor<countertimer_type, startstop_pin_inverted>::sync_pos_offset() [with countertimer_type = short unsigned int; bool startstop_pin_inverted = false]	16	static,ignoring_inline_asm
+D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Core/Inc/StepperMotor.hpp:144:8:void PositioningStepperMotor<countertimer_type, startstop_pin_inverted>::set_counter_target(uint64_t) [with countertimer_type = short unsigned int; bool startstop_pin_inverted = false]	8	static
+D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Core/Inc/StepperMotor.hpp:55:8:void StepperMotor<startstop_pin_inverted>::stop_motor() [with bool startstop_pin_inverted = false]	0	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:16:17:void processPositionCounter()	24	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:20:17:void setPos(int64_t)	24	static,ignoring_inline_asm
+D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Core/Inc/StepperMotor.hpp:38:12:uint32_t StepperMotor<startstop_pin_inverted>::speed_to_arr(uint32_t) [with bool startstop_pin_inverted = false]	8	static
+D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Core/Inc/StepperMotor.hpp:68:8:void StepperMotor<startstop_pin_inverted>::tick_IT() [with bool startstop_pin_inverted = false]	16	static
+D:/Documents/STM32/Thermocycle/master/cmake/stm32cubemx/../../Core/Inc/StepperMotor.hpp:178:8:void PositioningStepperMotor<countertimer_type, startstop_pin_inverted>::tick_IT() [with countertimer_type = short unsigned int; bool startstop_pin_inverted = false]	40	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:12:17:void processAcceleration()	8	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/acceleration.cpp:57:1:cpp)	12	static

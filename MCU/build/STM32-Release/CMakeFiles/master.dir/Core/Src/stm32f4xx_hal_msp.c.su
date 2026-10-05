@@ -1,0 +1,10 @@
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:71:6:HAL_MspInit	8	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:96:6:HAL_RTC_MspInit	32	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:130:6:HAL_RTC_MspDeInit	0	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:152:6:HAL_SPI_MspInit	48	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:227:6:HAL_SPI_MspDeInit	8	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:260:6:HAL_TIM_Base_MspInit	16	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:290:6:HAL_TIM_MspPostInit	32	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:322:6:HAL_TIM_Base_MspDeInit	0	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:358:6:HAL_UART_MspInit	48	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/stm32f4xx_hal_msp.c:434:6:HAL_UART_MspDeInit	8	static

@@ -1,0 +1,62 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"cmake/modbus-stm32-hal-freertos/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "Modbus_STM32_HAL_FreeRTOS::@c75fcf5d70e49f51c154",
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "_Modbus_STM32_HAL_FreeRTOS_internal::@c75fcf5d70e49f51c154"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "_Modbus_STM32_HAL_FreeRTOS_internal::@c75fcf5d70e49f51c154"
+		}
+	],
+	"name" : "Modbus_STM32_HAL_FreeRTOS",
+	"paths" : 
+	{
+		"build" : "cmake/modbus-stm32-hal-freertos",
+		"source" : "cmake/modbus-stm32-hal-freertos"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

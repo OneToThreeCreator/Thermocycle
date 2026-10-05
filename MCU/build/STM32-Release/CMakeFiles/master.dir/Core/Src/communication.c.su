@@ -1,0 +1,7 @@
+D:/Documents/STM32/Thermocycle/master/Core/Src/communication.c:69:10:get_seconds	88	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/communication.c:92:6:reset_seconds	32	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/communication.c:105:6:init_communication	8	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/communication.c:111:6:position_first	24	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/communication.c:124:6:position_second	24	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/communication.c:137:6:position_manual	32	static
+D:/Documents/STM32/Thermocycle/master/Core/Src/communication.c:166:6:StartCommTask	32	static
